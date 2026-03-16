@@ -1,1 +1,34 @@
-# Desafio_Mistura_de_conhecimentos
+# 📚 Certificados de Cursos
+
+Este repositório contém um desafio que une todas os assuntos cementados no tecnólogo de Ciência de dados até o momento atual do curso.
+
+## 📄 Metodologias utilizadas
+
+### 🖌️ Design Thinking
+
+Nesta parte foi criado um mapa de empatia que tem com o intuito de auxiliar nos pensamentos sobre o problema a ser solucionado.
+
+![Desafio 16_03](https://github.com/user-attachments/assets/10de5aec-5eb3-4044-8748-8fa11b92ef7d)
+
+[Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
+
+A imagem do arquivo também pode ser vista na pasta [Imagens]()
+
+---
+
+### 🗒️ Kanban
+
+Nesta parte do projeto foi realizado um Kanban(meio visual de organização) para que a organização do projeto seja melhor.
+
+![Desafio 16_03 (1)](https://github.com/user-attachments/assets/ab988a3a-e8c6-477e-8f73-68daa25c8a06)
+
+[Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
+
+A imagem do arquivo também pode ser vista na pasta [Imagens]()
+
+---
+## 🚀 Objetivo
+
+Este projeto tem como objeto testar os conhecimentos e como juntá-los em um único projeto, assim simulando o processo real de uma empresa de alto rendimento.
+
+Manter um aprendizado contínuo (**Lifelong Learning**) em áreas estratégicas, unindo competências técnicas (Hard Skills) com uma visão crítica sobre sustentabilidade e segurança digital.
