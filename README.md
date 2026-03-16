@@ -2,6 +2,8 @@
 
 Este repositório contém um desafio que une todas os assuntos cementados no tecnólogo de Ciência de dados até o momento atual do curso.
 
+Caso queira ler um pouco sobre o Briefing do desafio acesse o PDF [Desafio](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Desafio.pdf)
+
 ## 📄 Metodologias utilizadas
 
 ### 🖌️ Design Thinking
@@ -12,7 +14,7 @@ Nesta parte foi criado um mapa de empatia que tem com o intuito de auxiliar nos 
 
 [Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
 
-A imagem do arquivo também pode ser vista na pasta [Imagens]()
+A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Mapa%20de%20empatia.jpg)
 
 ---
 
@@ -24,7 +26,7 @@ Nesta parte do projeto foi realizado um Kanban(meio visual de organização) par
 
 [Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
 
-A imagem do arquivo também pode ser vista na pasta [Imagens]()
+A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Kanban.jpg)
 
 ---
 ## 🚀 Objetivo
