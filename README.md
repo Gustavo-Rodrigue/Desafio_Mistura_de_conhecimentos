@@ -12,8 +12,6 @@ Nesta parte foi criado um mapa de empatia que tem com o intuito de auxiliar nos 
 
 ![Desafio 16_03](https://github.com/user-attachments/assets/10de5aec-5eb3-4044-8748-8fa11b92ef7d)
 
-[Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
-
 A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Mapa%20de%20empatia.jpg)
 
 ---
@@ -24,13 +22,27 @@ Nesta parte do projeto foi realizado um Kanban(meio visual de organização) par
 
 ![Desafio 16_03 (1)](https://github.com/user-attachments/assets/ab988a3a-e8c6-477e-8f73-68daa25c8a06)
 
-[Link para acesso do mapa de empatia](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
-
 A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Kanban.jpg)
 
 ---
+
+### 💻 Requisitos do sistema
+
+Nesta área do projeto foi realizada a divisão dos requisitos funcionais, não funcionais e regras de negócio(definidas pela empresa).
+
+![Requisitos](https://github.com/user-attachments/assets/afab66eb-50cf-4e07-bc7a-ec0518917e55)
+
+A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Requisitos.jpg)
+
+---
+
 ## 🚀 Objetivo
 
 Este projeto tem como objeto testar os conhecimentos e como juntá-los em um único projeto, assim simulando o processo real de uma empresa de alto rendimento.
 
 Manter um aprendizado contínuo (**Lifelong Learning**) em áreas estratégicas, unindo competências técnicas (Hard Skills) com uma visão crítica sobre sustentabilidade e segurança digital.
+
+
+## 🔌 Links
+
+Link para acesso de todos os recursos mostrados acima: [Clique Aqui](https://miro.com/app/board/uXjVGyCbUG0=/?share_link_id=708788168115)
