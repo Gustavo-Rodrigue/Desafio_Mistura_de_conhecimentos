@@ -40,7 +40,7 @@ A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com
 
 Este projeto tem como objeto testar os conhecimentos e como juntá-los em um único projeto, assim simulando o processo real de uma empresa de alto rendimento.
 
-Manter um aprendizado contínuo (**Lifelong Learning**) em áreas estratégicas, unindo competências técnicas (Hard Skills) com uma visão crítica sobre sustentabilidade e segurança digital.
+Manter um aprendizado contínuo (**Lifelong Learning**) em áreas estratégicas, unindo competências técnicas (Hard Skills) com uma visão crítica.
 
 
 ## 🔌 Links
