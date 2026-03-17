@@ -30,7 +30,7 @@ A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com
 
 Nesta área do projeto foi realizada a divisão dos requisitos funcionais, não funcionais e regras de negócio(definidas pela empresa).
 
-![Requisitos](https://github.com/user-attachments/assets/afab66eb-50cf-4e07-bc7a-ec0518917e55)
+![Requisitos](https://github.com/user-attachments/assets/b6f03cc9-a79e-482e-8a39-622ccfdb6496)
 
 A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Requisitos.jpg)
 
