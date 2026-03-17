@@ -41,3 +41,10 @@ def Validar_Notas(dados):
     
     return Notas_validas
 
+def Media(dados):
+    medias = []
+    for i in range(len(dados)):
+        notas = dados[i]
+        resul = sum(notas) / len(notas)
+        medias.append(resul)
+    return medias
