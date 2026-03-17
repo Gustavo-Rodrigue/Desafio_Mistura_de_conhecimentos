@@ -7,7 +7,7 @@ def Coleta():
         for i in range(quantidade):
             Notas.append(input(f"Digite a {i + 1}° nota do aluno (Utilize . para notas não inteiras) \n >> "))
         break
-    dados.append[Nome, Notas]
-    print(dados)
+    dados.append([Nome, Notas])
+    return(dados)
 
 Coleta()
