@@ -40,3 +40,4 @@ def Validar_Notas(dados):
         Notas_validas.append(notas_aluno)  
     
     return Notas_validas
+

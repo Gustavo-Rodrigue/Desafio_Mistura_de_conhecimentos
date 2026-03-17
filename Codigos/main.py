@@ -12,3 +12,4 @@ Notas = pr.Validar_Notas(dados["Notas"])
 
 print(Nomes)
 print(Notas)
+
