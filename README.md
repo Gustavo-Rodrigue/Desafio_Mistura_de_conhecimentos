@@ -20,7 +20,7 @@ A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com
 
 Nesta parte do projeto foi realizado um Kanban(meio visual de organização) para que a organização do projeto seja melhor.
 
-![Desafio 16_03 (1)](https://github.com/user-attachments/assets/ab988a3a-e8c6-477e-8f73-68daa25c8a06)
+![Kanban](https://github.com/user-attachments/assets/74eb9f79-560e-4944-8c1d-751496b6e477)
 
 A imagem do arquivo também pode ser vista na pasta [Imagens](https://github.com/Gustavo-Rodrigue/Desafio_Mistura_de_conhecimentos/blob/main/Imagens/Kanban.jpg)
 
