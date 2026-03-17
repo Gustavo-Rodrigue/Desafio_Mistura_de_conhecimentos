@@ -1,4 +1,4 @@
-# 📚 Certificados de Cursos
+# 📚 Desafio Mistura de Conhecimentos
 
 Este repositório contém um desafio que une todas os assuntos cementados no tecnólogo de Ciência de dados até o momento atual do curso.
 
