@@ -31,4 +31,6 @@ lista = pr.Listar(Nomes, medias, reprovados)
 
 print(lista)
 
+pr.gerar_relatorio(lista)
+
 
