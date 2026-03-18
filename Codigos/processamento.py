@@ -69,3 +69,10 @@ def Listar(Nomes, Medias, Resultados):
         melhor = "Melhor" if media >= 9.0 else ""
         lista.append((aluno, media, resultado, melhor))
     return lista
+
+def gerar_relatorio(lista_alunos):
+    with open("resultado.txt", "w", encoding="UTF-8") as arquivo:
+        arquivo.write("Lista de Médias dos alunos\n")
+        arquivo.write("=" * 30 + "\n")
+        for aluno, media, resultado, melhor in lista_alunos:
+            arquivo.write(f"{aluno} - {media} - {resultado} - {melhor}\n")
