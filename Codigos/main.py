@@ -9,7 +9,9 @@ dados = pr.Organizar(Dados)
 
 Nomes = pr.Validar_Nomes(dados["Nomes"])
 Notas = pr.Validar_Notas(dados["Notas"])
+medias = pr.Media(Notas)
 
 print(Nomes)
 print(Notas)
+print(medias)
 
