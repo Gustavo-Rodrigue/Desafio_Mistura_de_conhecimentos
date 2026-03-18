@@ -46,5 +46,26 @@ def Media(dados):
     for i in range(len(dados)):
         notas = dados[i]
         resul = sum(notas) / len(notas)
-        medias.append(resul)
+        medias.append(round(resul, 2))
     return medias
+
+def Filtro(valores):
+    resultado = []
+    for i in range(len(valores)):
+        media = valores[i]
+        if media > 7:
+            resultado.append("Aprovado")
+        else:
+            resultado.append("Reprovado")
+
+    return resultado
+
+def Listar(Nomes, Medias, Resultados):
+    lista = []
+    for i in range(len(Nomes)):
+        aluno = Nomes[i]
+        media = Medias[i]
+        resultado = Resultados[i]
+        melhor = "Melhor" if media >= 9.0 else ""
+        lista.append((aluno, media, resultado, melhor))
+    return lista
